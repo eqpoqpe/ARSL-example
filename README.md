@@ -1,6 +1,6 @@
 # Programming - Async Request State Lock
 ```js
-if (unlocked) {
+if (!state) {
   // setlock
   // async ... -> unlock
 }
