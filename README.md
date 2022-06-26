@@ -1,4 +1,4 @@
-# Programming - Async Request State Lock
+# Programming - Async Requests State Lock
 ```js
 if (!state) {
   // setlock
